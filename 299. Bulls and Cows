@@ -1,4 +1,5 @@
 299. Bulls and Cows
+(https://leetcode.com/problems/bulls-and-cows/description/)
 
 You are playing the Bulls and Cows game with your friend.
 
@@ -36,3 +37,9 @@ Constraints:
 1 <= secret.length, guess.length <= 1000
 secret.length == guess.length
 secret and guess consist of digits only.
+
+
+
+
+
+Solution:-
